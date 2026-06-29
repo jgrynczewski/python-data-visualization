@@ -1,0 +1,92 @@
+[
+  {
+    "nazwa": "Laptop Dell XPS",
+    "kategoria": "Elektronika",
+    "cena": 4500.00,
+    "ilosc": 12
+  },
+  {
+    "nazwa": "Mysz Logitech",
+    "kategoria": "Elektronika",
+    "cena": 89.99,
+    "ilosc": 45
+  },
+  {
+    "nazwa": "Klawiatura mechaniczna",
+    "kategoria": "Elektronika",
+    "cena": 350.00,
+    "ilosc": 23
+  },
+  {
+    "nazwa": "Biurko Ikea Bekant",
+    "kategoria": "Meble",
+    "cena": 890.00,
+    "ilosc": 8
+  },
+  {
+    "nazwa": "Krzesło ergonomiczne",
+    "kategoria": "Meble",
+    "cena": 1200.00,
+    "ilosc": 15
+  },
+  {
+    "nazwa": "Lampa biurkowa LED",
+    "kategoria": "Oświetlenie",
+    "cena": 179.99,
+    "ilosc": 34
+  },
+  {
+    "nazwa": "Monitor 27 cali",
+    "kategoria": "Elektronika",
+    "cena": 1299.00,
+    "ilosc": 18
+  },
+  {
+    "nazwa": "Stojak na laptop",
+    "kategoria": "Akcesoria",
+    "cena": 125.50,
+    "ilosc": 28
+  },
+  {
+    "nazwa": "Podkładka pod mysz",
+    "kategoria": "Akcesoria",
+    "cena": 45.00,
+    "ilosc": 67
+  },
+  {
+    "nazwa": "Słuchawki bezprzewodowe",
+    "kategoria": "Elektronika",
+    "cena": 599.00,
+    "ilosc": 22
+  },
+  {
+    "nazwa": "Regał Billy",
+    "kategoria": "Meble",
+    "cena": 349.00,
+    "ilosc": 11
+  },
+  {
+    "nazwa": "Lampka nocna",
+    "kategoria": "Oświetlenie",
+    "cena": 89.00,
+    "ilosc": 42
+  },
+  {
+    "nazwa": "Kabel HDMI 2m",
+    "kategoria": "Akcesoria",
+    "cena": 35.00,
+    "ilosc": 89
+  },
+  {
+    "nazwa": "Powerbank 20000mAh",
+    "kategoria": "Elektronika",
+    "cena": 149.00,
+    "ilosc": 31
+  },
+  {
+    "nazwa": "Mata pod krzesło",
+    "kategoria": "Akcesoria",
+    "cena": 99.00,
+    "ilosc": 19
+  }
+]
